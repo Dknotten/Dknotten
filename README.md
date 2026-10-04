@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-### Frontend Developer · UI Enthusiast · Creative Builder
+### Fullstack Developer · UI Enthusiast · Creative Builder
 
 I enjoy turning ideas into **clean, intuitive, and polished digital experiences.**
 
@@ -38,13 +38,3 @@ I enjoy turning ideas into **clean, intuitive, and polished digital experiences.
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=FFFFFF)](https://nodejs.org/)
 
 ---
-
-## 🚀 Currently
-
-Building things, learning constantly, and obsessing over the little details that make interfaces feel great.
-
----
-
-<p align="center">
-  <i>Design it. Build it. Make it feel right.</i>
-</p>
