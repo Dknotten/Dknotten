@@ -32,9 +32,6 @@ I enjoy turning ideas into **clean, intuitive, and polished digital experiences.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=FFFFFF)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=FFFFFF)](https://www.docker.com/)
-
-### Backend
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=FFFFFF)](https://nodejs.org/)
 
----
+
