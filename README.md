@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-### Fullstack Developer · UI Enthusiast · Creative Builder
+### Fullstack Developer · UI Enthusiast 
 
 I enjoy turning ideas into **clean, intuitive, and polished digital experiences.**
 
