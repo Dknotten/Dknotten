@@ -15,7 +15,6 @@ I enjoy turning ideas into **clean, intuitive, and polished digital experiences.
 
 ---
 
-## 🛠️ Tech Stack
 
 ### Frontend
 
