@@ -5,9 +5,13 @@ Frontend Developer • UI Enthusiast •
 
 
 ✨ What I Like Building
-- 🎨 Clean and thoughtful UI
--⚡ Fast & performant websites
--📱 Responsive experiences
+
+
+🎨 Clean and thoughtful UI
+
+⚡ Fast & performant websites
+
+📱 Responsive experiences
 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
