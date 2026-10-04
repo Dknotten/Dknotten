@@ -8,5 +8,4 @@ Frontend Developer • UI Enthusiast •
 -⚡ Fast & performant websites
 -📱 Responsive experiences
 
-💻 Tech Stack:
-React JavaScript HTML5 CSS3  Figma Postman GIT WordPress VSCode 
+
