@@ -6,12 +6,12 @@ I enjoy turning ideas into **clean, intuitive, and polished digital experiences.
 
 ---
 
-## ✨ What I Like Building
 
-* 🎨 **Clean & thoughtful UI**
-* ⚡ **Fast & performant websites**
-* 📱 **Responsive experiences**
-* 🧩 **Reusable & maintainable components**
+
+ **Clean & thoughtful UI**
+ **Fast & performant websites**
+ **Responsive experiences**
+ **Reusable & maintainable components**
 
 ---
 
